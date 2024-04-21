@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
+
 namespace _4_лаба_Виндовс_Формам
 {
     public partial class Form1 : Form
